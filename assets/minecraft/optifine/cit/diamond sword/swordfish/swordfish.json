@@ -1,8 +1,5 @@
 {
     "parent": "item/handheld",
-    "textures": {
-        "layer0": "heroicarmory:items/terraria/swordfish"
-    },
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [ 18, 90, 0 ],

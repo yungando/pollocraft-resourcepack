@@ -1,8 +1,5 @@
 {
    "parent": "item/generated",
-   "textures": {
-       "layer0": "gweapons:items/gds"
-     },
   "display": {
     "thirdperson_righthand": {
       "rotation": [ 356, 92, 54 ],
