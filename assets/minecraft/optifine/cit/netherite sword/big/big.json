@@ -1,5 +1,5 @@
 {
-   "parent": "item/diamond_sword",
+   "parent": "item/netherite_sword",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, -90, 55],
