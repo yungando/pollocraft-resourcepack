@@ -1,8 +1,6 @@
 {
     "parent": "item/handheld",
-	"textures": {
-		"layer0": "./barrelchest_anchor"
-	},
+	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [0, -90, 55],
@@ -26,7 +24,7 @@
 			"scale": [1.391304347826087, 1.391304347826087, 0.6956521739130435]
 		},
 		"gui": {
-			"translation": [2.5, 2.25, 0]
+			"translation": [2.5, 2.5, 0]
 		},
 		"fixed": {
 			"translation": [3.48, 3.13043, 0],
