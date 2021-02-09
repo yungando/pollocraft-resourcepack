@@ -1,5 +1,8 @@
 {
     "parent": "item/handheld",
+	"textures": {
+		"layer0": "./barrelchest_anchor"
+	},
 	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
