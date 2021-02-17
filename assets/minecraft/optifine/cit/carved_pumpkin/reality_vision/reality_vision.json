@@ -1,8 +1,8 @@
 {
 	"texture_size": [64, 32],
 	"textures": {
-		"0": "./clout_layer_1",
-		"particle": "./clout_layer_1"
+		"0": "./reality_vision",
+		"particle": "./reality_vision"
 	},
 	"elements": [
 		{
