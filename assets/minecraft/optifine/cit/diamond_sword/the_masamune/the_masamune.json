@@ -1,17 +1,17 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "./the_masamune"
-    },
+    "parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "pintcraft:item/swordfish"
+		},
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [ 18, 90, 0 ],
-			"translation": [ 0.00, 14.50, -7.00 ],
+			"translation": [ 0.00, 15.00, -7.25 ],
 			"scale": [ 2.00, 2.00, 1.00 ]
 		},
 		"thirdperson_lefthand": {
-			"rotation": [ 18, 270, 358 ],
-			"translation": [ 0.00, 14.50, -7.00 ],
+			"rotation": [ -340, -90, 0 ],
+			"translation": [ 0.00, 15.00, -7.25 ],
 			"scale": [ 2.00, 2.00, 1.00 ]
 		},
 		"firstperson_righthand": {
@@ -23,6 +23,11 @@
 			"rotation": [ 246, 282, 238 ],
 			"translation": [ 3.50, 13.50, -4.25 ],
 			"scale": [ 2.00, 2.00, 1.00 ]
+		},
+		"gui": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0.25806451612903203, 0.25806451612903203, 0.75 ],
+			"scale": [ 1.032258064516129, 1.032258064516129, 1.00 ]
 		}
 	}
 }

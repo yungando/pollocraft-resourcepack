@@ -1,0 +1,16 @@
+{
+	"overrides": [
+		{
+			"predicate": {
+				"name": "/(?i)Spade/"
+			},
+			"model": "pintcraft:item/spade"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Market Gardener/"
+			},
+			"model": "pintcraft:item/market_gardener"
+		}
+	]
+}

@@ -1,0 +1,28 @@
+{
+	"overrides": [
+		{
+			"predicate": {
+				"name": "/(?i)Cap's Shield/"
+			},
+			"model": "pintcraft:item/caps_shield"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Oak Door/"
+			},
+			"model": "pintcraft:item/oak_door"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)stal/"
+			},
+			"model": "pintcraft:item/stal"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Turtle Shell/"
+			},
+			"model": "pintcraft:item/turtle_shell"
+		}
+	]
+}

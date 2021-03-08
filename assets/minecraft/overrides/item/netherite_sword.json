@@ -1,0 +1,112 @@
+{
+	"overrides": [
+		{
+			"predicate": {
+				"name": "/(?i)Dungeon Iron Sword/"
+			},
+			"model": "pintcraft:item/dungeon_iron_sword"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Turtle Sword/"
+			},
+			"model": "pintcraft:item/turtle_sword"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Anduril/"
+			},
+			"model": "pintcraft:item/anduril"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)big/"
+			},
+			"model": "pintcraft:item/netherite_big"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Death Scythe/"
+			},
+			"model": "pintcraft:item/death_scythe"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Dungeon Diamond Sword/"
+			},
+			"model": "pintcraft:item/dungeon_diamond_sword"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Grave Bane/"
+			},
+			"model": "pintcraft:item/grave_bane"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Nitro Sword/"
+			},
+			"model": "pintcraft:item/nitro_sword"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Rune Scimitar/"
+			},
+			"model": "pintcraft:item/rune_scimitar"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Swordfish/"
+			},
+			"model": "pintcraft:item/swordfish"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)The Masamune/"
+			},
+			"model": "pintcraft:item/the_masamune"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Crucible/"
+			},
+			"model": "pintcraft:item/crucible"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Dragon Scimitar/"
+			},
+			"model": "pintcraft:item/dragon_scimitar"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Ebony Blade/"
+			},
+			"model": "pintcraft:item/ebony_blade"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Firelink Greatsword/"
+			},
+			"model": "pintcraft:item/firelink_greatsword"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Frostmourne/"
+			},
+			"model": "pintcraft:item/frostmourne"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Phantom Ganon Sword/"
+			},
+			"model": "pintcraft:item/phantom_ganon_sword"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Soul Scythe/"
+			},
+			"model": "pintcraft:item/soul_scythe"
+		}
+	]
+}

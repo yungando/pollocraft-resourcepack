@@ -1,0 +1,10 @@
+{
+	"overrides": [
+		{
+			"predicate": {
+				"name": "/(?i)Penetrator/"
+			},
+			"model": "pintcraft:item/penetrator"
+		}
+	]
+}

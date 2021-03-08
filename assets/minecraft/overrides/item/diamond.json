@@ -1,0 +1,40 @@
+{
+	"overrides": [
+		{
+			"predicate": {
+				"name": "/(?i)baronslimer/"
+			},
+			"model": "pintcraft:item/baronslimer"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)binoculars/"
+			},
+			"model": "pintcraft:item/binoculars"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)middle finger/"
+			},
+			"model": "pintcraft:item/middle_finger"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)nitro/"
+			},
+			"model": "pintcraft:item/nitro"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)pal/"
+			},
+			"model": "pintcraft:item/pal"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)partyparrot/"
+			},
+			"model": "pintcraft:item/partyparrot"
+		}
+	]
+}

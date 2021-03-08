@@ -1,0 +1,28 @@
+{
+	"overrides": [
+		{
+			"predicate": {
+				"name": "/(?i)Dungeon Iron Axe/"
+			},
+			"model": "pintcraft:item/dungeon_iron_axe"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Double Axe/"
+			},
+			"model": "pintcraft:item/double_axe"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Firebrand/"
+			},
+			"model": "pintcraft:item/firebrand"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Great Hammer/"
+			},
+			"model": "pintcraft:item/great_hammer"
+		}
+	]
+}

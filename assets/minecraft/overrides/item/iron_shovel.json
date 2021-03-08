@@ -1,0 +1,10 @@
+{
+	"overrides": [
+		{
+			"predicate": {
+				"name": "/(?i)Spade/"
+			},
+			"model": "pintcraft:item/spade"
+		}
+	]
+}

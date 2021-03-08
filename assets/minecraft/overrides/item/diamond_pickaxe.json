@@ -1,0 +1,28 @@
+{
+	"overrides": [
+		{
+			"predicate": {
+				"name": "/(?i)Barrelchest Anchor/"
+			},
+			"model": "pintcraft:item/barrelchest_anchor"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Mountaineer Pick/"
+			},
+			"model": "pintcraft:item/mountaineer_pick"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Dungeon Diamond Pickaxe/"
+			},
+			"model": "pintcraft:item/dungeon_diamond_pickaxe"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)whas poppin/"
+			},
+			"model": "pintcraft:item/whas_poppin"
+		}
+	]
+}

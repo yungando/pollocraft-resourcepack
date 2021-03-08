@@ -1,0 +1,16 @@
+{
+	"overrides": [
+		{
+			"predicate": {
+				"name": "/(?i)Barrelchest Anchor/"
+			},
+			"model": "pintcraft:item/barrelchest_anchor"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Mountaineer Pick/"
+			},
+			"model": "pintcraft:item/mountaineer_pick"
+		}
+	]
+}

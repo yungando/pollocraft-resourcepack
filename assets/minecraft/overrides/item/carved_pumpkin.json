@@ -1,0 +1,16 @@
+{
+	"overrides": [
+		{
+			"predicate": {
+				"name": "/(?i)Reality Vision/"
+			},
+			"model": "pintcraft:item/reality_vision"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)you got boofed/"
+			},
+			"model": "pintcraft:item/you_got_boofed"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"overrides": [
+		{
+			"predicate": {
+				"name": "/(?i)Dungeon Iron Axe/"
+			},
+			"model": "pintcraft:item/dungeon_iron_axe"
+		}
+	]
+}

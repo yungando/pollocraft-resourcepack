@@ -1,0 +1,16 @@
+{
+	"overrides": [
+		{
+			"predicate": {
+				"name": "/(?i)Dungeon Iron Sword/"
+			},
+			"model": "pintcraft:item/dungeon_iron_sword"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Turtle Sword/"
+			},
+			"model": "pintcraft:item/turtle_sword"
+		}
+	]
+}

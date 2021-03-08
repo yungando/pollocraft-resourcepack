@@ -1,0 +1,149 @@
+{
+	"overrides": [
+		{
+			"predicate": {
+				"name": "/(?i)Fine Bow/"
+			},
+			"model": "pintcraft:item/fine_bow"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Fine Bow/",
+                "pulling": 1
+			},
+			"model": "pintcraft:item/fine_bow_pulling_0"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Fine Bow/",
+                "pulling": 1,
+                "pull": 0.65
+			},
+			"model": "pintcraft:item/fine_bow_pulling_1"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Fine Bow/",
+                "pulling": 1,
+                "pull": 0.9
+			},
+			"model": "pintcraft:item/fine_bow_pulling_2"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Green Menace/"
+			},
+			"model": "pintcraft:item/green_menace"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Green Menace/",
+                "pulling": 1
+			},
+			"model": "pintcraft:item/green_menace_pulling_0"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Green Menace/",
+                "pulling": 1,
+                "pull": 0.65
+			},
+			"model": "pintcraft:item/green_menace_pulling_1"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Green Menace/",
+                "pulling": 1,
+                "pull": 0.9
+			},
+			"model": "pintcraft:item/green_menace_pulling_2"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Hunting Bow/"
+			},
+			"model": "pintcraft:item/hunting_bow"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Hunting Bow/",
+                "pulling": 1
+			},
+			"model": "pintcraft:item/hunting_bow_pulling_0"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Hunting Bow/",
+                "pulling": 1,
+                "pull": 0.65
+			},
+			"model": "pintcraft:item/hunting_bow_pulling_1"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Hunting Bow/",
+                "pulling": 1,
+                "pull": 0.9
+			},
+			"model": "pintcraft:item/hunting_bow_pulling_2"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Snow Bow/"
+			},
+			"model": "pintcraft:item/snow_bow"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Snow Bow/",
+                "pulling": 1
+			},
+			"model": "pintcraft:item/snow_bow_pulling_0"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Snow Bow/",
+                "pulling": 1,
+                "pull": 0.65
+			},
+			"model": "pintcraft:item/snow_bow_pulling_1"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Snow Bow/",
+                "pulling": 1,
+                "pull": 0.9
+			},
+			"model": "pintcraft:item/snow_bow_pulling_2"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Twisted Bow/"
+			},
+			"model": "pintcraft:item/twisted_bow"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Twisted Bow/",
+                "pulling": 1
+			},
+			"model": "pintcraft:item/twisted_bow_pulling_0"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Twisted Bow/",
+                "pulling": 1,
+                "pull": 0.65
+			},
+			"model": "pintcraft:item/twisted_bow_pulling_1"
+		},
+		{
+			"predicate": {
+				"name": "/(?i)Twisted Bow/",
+                "pulling": 1,
+                "pull": 0.9
+			},
+			"model": "pintcraft:item/twisted_bow_pulling_2"
+		}
+	]
+}
