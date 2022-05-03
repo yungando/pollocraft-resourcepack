@@ -1,0 +1,15 @@
+{
+    "parent": "pintcraft:item/netherite_defender",
+    "display": {
+        "firstperson_righthand": {
+            "rotation": [ 180, 60, -170 ],
+            "translation": [ -1.5, 4, 0 ],
+			"scale": [0.5, 0.5, 0.5]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 180, 60, 100 ],
+            "translation": [ 1.5, 4, 0 ],
+			"scale": [0.5, 0.5, 0.5]
+        }
+    }
+}

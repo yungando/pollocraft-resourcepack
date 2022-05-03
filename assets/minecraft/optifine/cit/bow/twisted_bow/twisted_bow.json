@@ -1,3 +1,34 @@
 {
-	"parent": "pintcraft:item/twisted_bow"
+    "parent": "minecraft:item/bow",
+	"textures": {
+		"layer0": "./twisted_bow"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-80, 260, -40],
+			"translation": [-1, -2.25, 3.75],
+			"scale": [2, 2, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-80, -280, 40],
+			"translation": [-1, -2, 2.5],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"firstperson_righthand": {
+			"rotation": [-15, -90, 25],
+			"translation": [-1.87, 7.45, 4.38],
+			"scale": [1.3913, 1.3913, 0.68]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 90, -25],
+			"translation": [1.13, 3.2, 1.13],
+			"scale": [0.68, 0.68, 0.68]
+		},
+		"gui": {
+			"scale": [1.4, 1.4, 1]
+		},
+		"fixed": {
+			"scale": [-1.7, 1.7, 1]
+		}
+	}
 }
