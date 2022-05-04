@@ -1,6 +1,7 @@
 {
-    "pack": {
-        "pack_format": 6,
-        "description": "required for baronslimer"
+    "pack":
+	{
+        "pack_format": 8,
+        "description": "pollo 👍"
     }
 }
