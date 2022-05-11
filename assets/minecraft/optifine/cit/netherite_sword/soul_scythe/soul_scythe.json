@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
 	"textures": {
-		"layer0": "pintcraft:item/soul_scythe"
+		"layer0": "./soul_scythe"
 	},
   "display": {
 		"thirdperson_righthand": {

@@ -1,5 +1,5 @@
 {
-  "parent": "pintcraft:item/stal",
+  "parent": "./stal",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [35, 145, 2.5],

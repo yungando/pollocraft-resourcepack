@@ -1,5 +1,5 @@
 {
-    "parent": "pintcraft:item/turtle_shell",
+    "parent": "./turtle_shell",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [35, 125, 2.5],

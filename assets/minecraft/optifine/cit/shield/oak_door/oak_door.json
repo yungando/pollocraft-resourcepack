@@ -2,8 +2,8 @@
 	"texture_size": [16, 32],
 	"gui_light": "front",
 	"textures": {
-		"0": "pintcraft:item/oak_door",
-		"particle": "pintcraft:item/oak_door"
+		"0": "./oak_door",
+		"particle": "./oak_door"
 	},
 	"elements": [
 		{

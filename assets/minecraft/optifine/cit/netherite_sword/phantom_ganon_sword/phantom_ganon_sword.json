@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "pintcraft:item/phantom_ganon_sword"
+        "layer0": "./phantom_ganon_sword"
     },
 	"display": {
 		"thirdperson_righthand": {

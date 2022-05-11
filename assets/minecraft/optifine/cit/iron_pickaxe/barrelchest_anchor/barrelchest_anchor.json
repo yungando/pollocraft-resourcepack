@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "pintcraft:item/barrelchest_anchor"
+		"layer0": "./barrelchest_anchor"
 	},
 	"display": {
 		"thirdperson_righthand": {

@@ -1,8 +1,8 @@
 {
     "gui_light": "front",
 	"textures": {
-		"1": "pintcraft:item/caps_shield",
-		"2": "pintcraft:item/caps_shield_leather"
+		"1": "./caps_shield",
+		"2": "./caps_shield_leather"
 	},
 	"elements": [
 		{

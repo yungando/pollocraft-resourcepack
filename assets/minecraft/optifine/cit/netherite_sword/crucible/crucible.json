@@ -1,7 +1,6 @@
 {
-	"texture_size": [64, 64],
 	"textures": {
-		"3": "pintcraft:item/crucible"
+		"3": "./crucible"
 	},
 	"elements": [
 		{

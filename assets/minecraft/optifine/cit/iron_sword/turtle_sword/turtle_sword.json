@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures": {
-		"layer0": "pintcraft:item/turtle_sword"
+		"layer0": "./turtle_sword"
 	},
 	"display": {
 		"thirdperson_righthand": {

@@ -1,7 +1,7 @@
 {
     "parent": "minecraft:item/handheld",
 	"textures": {
-		"layer0": "pintcraft:item/netherite_barrelchest_anchor"
+		"layer0": "./netherite_barrelchest_anchor"
 	},
 	"display": {
 		"thirdperson_righthand": {

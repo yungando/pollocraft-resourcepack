@@ -1,5 +1,5 @@
 {
-    "parent": "pintcraft:item/oak_door",
+    "parent": "./oak_door",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [35, 145, 2.5],
