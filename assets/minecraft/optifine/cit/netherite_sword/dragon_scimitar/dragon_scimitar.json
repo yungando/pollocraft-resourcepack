@@ -1,3 +1,6 @@
 {
-	"parent": "pintcraft:item/dragon_scimitar"
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "pintcraft:item/dragon_scimitar"
+	}
 }

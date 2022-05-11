@@ -1,3 +1,6 @@
 {
-	"parent": "pintcraft:item/schlattcoin"
+    "parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "pintcraft:item/schlattcoin"
+	}
 }

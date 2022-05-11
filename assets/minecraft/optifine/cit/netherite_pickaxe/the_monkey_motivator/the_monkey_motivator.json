@@ -1,3 +1,6 @@
 {
-	"parent": "pintcraft:item/the_monkey_motivator"
+    "parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "pintcraft:item/the_monkey_motivator"
+	}
 }

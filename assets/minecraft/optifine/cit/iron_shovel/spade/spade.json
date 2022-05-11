@@ -1,3 +1,6 @@
 {
-	"parent": "pintcraft:item/spade"
+	"parent": "minecraft:item/handheld",
+	"textures": {
+		"layer0": "pintcraft:item/spade"
+	}
 }
